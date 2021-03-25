@@ -1,0 +1,23 @@
+{
+	"name": "RealWorld",
+	"version": "1.0.0",
+	"description": "使用NuxtJS实现RealWorld",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nuxt"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Frankzhanghq/RealWorld.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Frankzhanghq/RealWorld/issues"
+	},
+	"homepage": "https://github.com/Frankzhanghq/RealWorld#readme",
+	"dependencies": {
+		"nuxt": "^2.15.3"
+	}
+}
